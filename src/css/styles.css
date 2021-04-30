@@ -1,0 +1,38 @@
+:root {
+  /* ### Primary */
+
+  -moderate-violet: hsl(263, 55%, 52%);
+  -very-dark-grayish-blue: hsl(217, 19%, 35%);
+  -very-dark-blackish-blue: hsl(219, 29%, 14%);
+  -white: hsl(0, 0%, 100%);
+
+  /* ### Neutral */
+
+  -light-gray: hsl(0, 0%, 81%);
+  -light-grayish-blue: hsl(210, 46%, 95%);
+}
+
+@font-face {
+  font-family: BarlowSemiCondensed-Medium;
+  src: url(../assets/fonts/BarlowSemiCondensed-Medium.ttf);
+}
+
+@font-face {
+  font-family: BarlowSemiCondensed-SemiBold;
+  src: url(../assets/fonts/BarlowSemiCondensed-SemiBold.ttf);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  font-size: 1.3rem;
+}
