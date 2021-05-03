@@ -4,7 +4,7 @@ Layout challenge number eight with Frontend Mentor platform, I will code the des
 
 ## Desktop design
 
-![](./src/assets/images/desktop-preview.jpg)
+![](./assets/images/desktop-preview.jpg)
 
 Do you want to try a layout challenge?
 
